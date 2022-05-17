@@ -36,7 +36,7 @@ const UseState = () => {
       <div className="center_div">
         <div className="divi">
         <p>{myNum}</p>
-        <span className={disp}>Value must be greater than zero, cannot decreament</span>
+        <span className={disp}>Value must be greater than zero, cannot decrement</span>
         </div>
         <div className="button2" onMouseEnter={()=>{evaluate('+')}} >
           <span></span>
