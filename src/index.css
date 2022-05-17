@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.divi{
+  text-align: center;
+}
+.visible{
+  color: red;
+  display: solid;
+}
+
+.invisible{
+  color: red;
+  display: none;
+}
